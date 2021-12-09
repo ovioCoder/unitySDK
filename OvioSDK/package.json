@@ -1,0 +1,21 @@
+{
+  "name": "com.ovio.oviosdk",
+  "version": "1.0.0",
+  "displayName": "OviO SDK",
+  "description": "This is the OviO SDK for unity",
+  "unity": "2020.3",
+  "documentationUrl": "TBD",
+  "changelogUrl": "https://github.com/ovioCoder/unitySDK/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ovioCoder/unitySDK/blob/main/LICENSE",
+  "keywords": [
+    "ovio",
+    "oviosdk",
+    "oviounity"
+  ],
+  "author": {
+    "name": "oviocoder",
+    "email": "niv@ovio.gg",
+    "url": "https://www.ovio.gg"
+  },
+  "type": "library"
+}
